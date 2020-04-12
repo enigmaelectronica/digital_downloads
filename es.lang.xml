@@ -213,200 +213,200 @@
   <phrase section="Global" data="SELECT">Seleccionar</phrase>
   <phrase section="Global" data="SELECTMULTI">Seleccionar algunas opciones</phrase>
   <phrase section="Global" data="SEND">Enviar</phrase>
-  <phrase section="Global" data="SETTINGS">Settings</phrase>
-  <phrase section="Global" data="SORTING">Sorting</phrase>
-  <phrase section="Global" data="SORTING_O">Sorting Options</phrase>
-  <phrase section="Global" data="STAFF">Staff</phrase>
-  <phrase section="Global" data="STATE">State</phrase>
+  <phrase section="Global" data="SETTINGS">Configuraciones</phrase>
+  <phrase section="Global" data="SORTING">Clasificación</phrase>
+  <phrase section="Global" data="SORTING_O">Opciones de Clasificación</phrase>
+  <phrase section="Global" data="STAFF">Personal</phrase>
+  <phrase section="Global" data="STATE">Estado</phrase>
   <phrase section="Global" data="STATUS">Status</phrase>
-  <phrase section="Global" data="SUBMIT">Submit</phrase>
-  <phrase section="Global" data="SUBMITP">Submit Payment</phrase>
-  <phrase section="Global" data="SUCCESS">Success</phrase>
-  <phrase section="Global" data="SUMMARY">Purchase Summary</phrase>
-  <phrase section="Global" data="SYSERROR">An error occurred while processing this request. Please contact administrator.</phrase>
-  <phrase section="Global" data="SYSTEM_ERR">Please complete the following fields:</phrase>
-  <phrase section="Global" data="SYSTEM_ERR1">System Error!! Invalid value detected -</phrase>
-  <phrase section="Global" data="SYSTEM_ERR2">You don't have permission to access this page.</phrase>
-  <phrase section="Global" data="SYSTEM_PROCCESS">Nothing to process.</phrase>
-  <phrase section="Global" data="TAG">Tag</phrase>
-  <phrase section="Global" data="TAGS">Tags</phrase>
-  <phrase section="Global" data="TAX">TAX/VAT</phrase>
-  <phrase section="Global" data="TITLE">Title</phrase>
-  <phrase section="Global" data="TO">To</phrase>
-  <phrase section="Global" data="TRANSACTION">Transaction</phrase>
-  <phrase section="Global" data="TRASH">Trash</phrase>
-  <phrase section="Global" data="TRASH_DEL_OK">All trashed items deleted successfully!</phrase>
-  <phrase section="Global" data="TYPE">Type</phrase>
-  <phrase section="Global" data="UPDATE">Update</phrase>
-  <phrase section="Global" data="UPDATED">updated successfully!</phrase>
-  <phrase section="Global" data="UPLOAD">Upload</phrase>
+  <phrase section="Global" data="SUBMIT">Enviar</phrase>
+  <phrase section="Global" data="SUBMITP">Enviar Pago</phrase>
+  <phrase section="Global" data="SUCCESS">Éxito</phrase>
+  <phrase section="Global" data="SUMMARY">Resumen de compra</phrase>
+  <phrase section="Global" data="SYSERROR">Se produjo un error al procesar esta solicitud. Por favor, póngase en contacto con el administrador.</phrase>
+  <phrase section="Global" data="SYSTEM_ERR">Por favor complete los siguientes campos:</phrase>
+  <phrase section="Global" data="SYSTEM_ERR1">Error del sistema, valor inválido detectado -</phrase>
+  <phrase section="Global" data="SYSTEM_ERR2">No tiene permiso para acceder a esta página.</phrase>
+  <phrase section="Global" data="SYSTEM_PROCCESS">Nada que procesar.</phrase>
+  <phrase section="Global" data="TAG">Etiqueta</phrase>
+  <phrase section="Global" data="TAGS">Etiqueta</phrase>
+  <phrase section="Global" data="TAX">Impuesto/IVA</phrase>
+  <phrase section="Global" data="TITLE">Título</phrase>
+  <phrase section="Global" data="TO">Para</phrase>
+  <phrase section="Global" data="TRANSACTION">Transacción</phrase>
+  <phrase section="Global" data="TRASH">Papelera</phrase>
+  <phrase section="Global" data="TRASH_DEL_OK">Todos los archivos han sido eliminados de la papelera con éxito</phrase>
+  <phrase section="Global" data="TYPE">Tipo</phrase>
+  <phrase section="Global" data="UPDATE">Actualizar</phrase>
+  <phrase section="Global" data="UPDATED">Actualizado con éxito</phrase>
+  <phrase section="Global" data="UPLOAD">Subir</phrase>
   <phrase section="Global" data="URL">Url</phrase>
-  <phrase section="Global" data="USER">User</phrase>
-  <phrase section="Global" data="USER_A">User Active</phrase>
-  <phrase section="Global" data="USER_B">User Banned</phrase>
-  <phrase section="Global" data="USER_I">User Inactive</phrase>
-  <phrase section="Global" data="USER_P">User Pending</phrase>
-  <phrase section="Global" data="USERNAME">Username</phrase>
-  <phrase section="Global" data="USERNAME_R1">Please Enter Valid Username</phrase>
-  <phrase section="Global" data="USERNAME_R2">Username Is Too Short (less Than 4 Characters Long).</phrase>
-  <phrase section="Global" data="USERNAME_R3">Invalid Characters Found In Username.</phrase>
-  <phrase section="Global" data="USERNAME_R4">Sorry, This Username Is Already Taken.</phrase>
-  <phrase section="Global" data="USERNAME_R5">We are sorry, selected username does not exist in our database.</phrase>
-  <phrase section="Global" data="VIEW">View</phrase>
+  <phrase section="Global" data="USER">Usuario</phrase>
+  <phrase section="Global" data="USER_A">Usuario Activo</phrase>
+  <phrase section="Global" data="USER_B">Usuario Expulsado</phrase>
+  <phrase section="Global" data="USER_I">Usuario Inactivo</phrase>
+  <phrase section="Global" data="USER_P">Usuario Pendiente</phrase>
+  <phrase section="Global" data="USERNAME">Nombre de Usuario</phrase>
+  <phrase section="Global" data="USERNAME_R1">Por favor ingrese un usuario válido</phrase>
+  <phrase section="Global" data="USERNAME_R2">Nombre de usuario es muy corto (debe ser mayor a 4 letras).</phrase>
+  <phrase section="Global" data="USERNAME_R3">Caracteres inválidos en el nombre de usuario.</phrase>
+  <phrase section="Global" data="USERNAME_R4">Este nombre de usuario ya está en uso.</phrase>
+  <phrase section="Global" data="USERNAME_R5">El usuario seleccionado no existe en nuestro sistema.</phrase>
+  <phrase section="Global" data="VIEW">Ver</phrase>
   <phrase section="Global" data="VIP">VIP</phrase>
-  <phrase section="Global" data="VISIT">Visit</phrase>
-  <phrase section="Global" data="WELCOME">Welcome</phrase>
-  <phrase section="Global" data="WISHLIST">Wishlist</phrase>
-  <phrase section="Global" data="WORKING">working....</phrase>
-  <phrase section="Global" data="YES">Yes</phrase>
-  <phrase section="Global" data="YOUAREHERE">You are here</phrase>
-  <phrase section="Global" data="ZIP">Zip-Postal Code</phrase>
+  <phrase section="Global" data="VISIT">Visitar</phrase>
+  <phrase section="Global" data="WELCOME">Bienvenido</phrase>
+  <phrase section="Global" data="WISHLIST">Lista de deseos</phrase>
+  <phrase section="Global" data="WORKING">trabajando....</phrase>
+  <phrase section="Global" data="YES">Si</phrase>
+  <phrase section="Global" data="YOUAREHERE">Usted está aquí</phrase>
+  <phrase section="Global" data="ZIP">Código postal o Zip</phrase>
   
-  <!-- Localization -->
-  <phrase section="Localization" data="_DAY">Day</phrase>
-  <phrase section="Localization" data="_DAYS">Days</phrase>
-  <phrase section="Localization" data="_HOUR">Hour</phrase>
-  <phrase section="Localization" data="_HOURS">Hours</phrase>
-  <phrase section="Localization" data="_MINUTE">Minute</phrase>
-  <phrase section="Localization" data="_MINUTES">Minutes</phrase>
-  <phrase section="Localization" data="_MONTH">Month</phrase>
-  <phrase section="Localization" data="_MONTHS">Months</phrase>
-  <phrase section="Localization" data="_SECOND">Second</phrase>
-  <phrase section="Localization" data="_SECONDS">Seconds</phrase>
-  <phrase section="Localization" data="_WEEK">Week</phrase>
-  <phrase section="Localization" data="_WEEKS">Weeks</phrase>
-  <phrase section="Localization" data="_YEAR">Year</phrase>
-  <phrase section="Localization" data="_YEARS">Years</phrase>
-  <phrase section="Localization" data="AGO">ago</phrase>
-  <phrase section="Localization" data="APR">Apr</phrase>
-  <phrase section="Localization" data="APR_L">April</phrase>
-  <phrase section="Localization" data="AUG">Aug</phrase>
-  <phrase section="Localization" data="AUG_L">August</phrase>
-  <phrase section="Localization" data="DEC">Dec</phrase>
-  <phrase section="Localization" data="DEC_L">December</phrase>
+  <!-- Localización -->
+  <phrase section="Localization" data="_DAY">Día</phrase>
+  <phrase section="Localization" data="_DAYS">Dias</phrase>
+  <phrase section="Localization" data="_HOUR">Hora</phrase>
+  <phrase section="Localization" data="_HOURS">Horas</phrase>
+  <phrase section="Localization" data="_MINUTE">Minuto</phrase>
+  <phrase section="Localization" data="_MINUTES">Minutos</phrase>
+  <phrase section="Localization" data="_MONTH">Mes</phrase>
+  <phrase section="Localization" data="_MONTHS">Meses</phrase>
+  <phrase section="Localization" data="_SECOND">Segundo</phrase>
+  <phrase section="Localization" data="_SECONDS">Segundos</phrase>
+  <phrase section="Localization" data="_WEEK">Semana</phrase>
+  <phrase section="Localization" data="_WEEKS">Semanas</phrase>
+  <phrase section="Localization" data="_YEAR">Año</phrase>
+  <phrase section="Localization" data="_YEARS">Años</phrase>
+  <phrase section="Localization" data="AGO">hace</phrase>
+  <phrase section="Localization" data="APR">Abr</phrase>
+  <phrase section="Localization" data="APR_L">Abril</phrase>
+  <phrase section="Localization" data="AUG">Ago</phrase>
+  <phrase section="Localization" data="AUG_L">Agosto</phrase>
+  <phrase section="Localization" data="DEC">Dic</phrase>
+  <phrase section="Localization" data="DEC_L">Diciembre/phrase>
   <phrase section="Localization" data="FEB">Feb</phrase>
-  <phrase section="Localization" data="FEB_L">February</phrase>
-  <phrase section="Localization" data="FRI">Fr</phrase>
-  <phrase section="Localization" data="FRI_L">Friday</phrase>
-  <phrase section="Localization" data="FRI_M">Fri</phrase>
-  <phrase section="Localization" data="JAN">Jan</phrase>
-  <phrase section="Localization" data="JAN_L">January</phrase>
+  <phrase section="Localization" data="FEB_L">Febrero</phrase>
+  <phrase section="Localization" data="FRI">Vie</phrase>
+  <phrase section="Localization" data="FRI_L">Viernes</phrase>
+  <phrase section="Localization" data="FRI_M">Vie</phrase>
+  <phrase section="Localization" data="JAN">Ene</phrase>
+  <phrase section="Localization" data="JAN_L">Enero</phrase>
   <phrase section="Localization" data="JUL">Jul</phrase>
-  <phrase section="Localization" data="JUL_L">July</phrase>
+  <phrase section="Localization" data="JUL_L">Julio</phrase>
   <phrase section="Localization" data="JUN">Jun</phrase>
-  <phrase section="Localization" data="JUN_L">June</phrase>
-  <phrase section="Localization" data="JUSTNOW">just now</phrase>
-  <phrase section="Localization" data="LAST_MONTH">Last Month</phrase>
-  <phrase section="Localization" data="LAST_WEEK">Last Week</phrase>
-  <phrase section="Localization" data="LAST_YEAR">Last Year</phrase>
+  <phrase section="Localization" data="JUN_L">Junio</phrase>
+  <phrase section="Localization" data="JUSTNOW">Justo ahora</phrase>
+  <phrase section="Localization" data="LAST_MONTH">Último mes</phrase>
+  <phrase section="Localization" data="LAST_WEEK">Última semana</phrase>
+  <phrase section="Localization" data="LAST_YEAR">Último año</phrase>
   <phrase section="Localization" data="MAR">Mar</phrase>
-  <phrase section="Localization" data="MAR_L">March</phrase>
+  <phrase section="Localization" data="MAR_L">Marzo</phrase>
   <phrase section="Localization" data="MAY">May</phrase>
-  <phrase section="Localization" data="MAY_L">May</phrase>
-  <phrase section="Localization" data="MON">Mo</phrase>
-  <phrase section="Localization" data="MON_L">Monday</phrase>
-  <phrase section="Localization" data="MON_M">Mon</phrase>
-  <phrase section="Localization" data="NEXT_MONTH">Next Month</phrase>
-  <phrase section="Localization" data="NEXT_WEEK">Next Week</phrase>
+  <phrase section="Localization" data="MAY_L">Mayo</phrase>
+  <phrase section="Localization" data="MON">Lu</phrase>
+  <phrase section="Localization" data="MON_L">Lunes</phrase>
+  <phrase section="Localization" data="MON_M">Mar</phrase>
+  <phrase section="Localization" data="NEXT_MONTH">Siguiente mes</phrase>
+  <phrase section="Localization" data="NEXT_WEEK">Siguiente semana</phrase>
   <phrase section="Localization" data="NOV">Nov</phrase>
-  <phrase section="Localization" data="NOV_L">November</phrase>
+  <phrase section="Localization" data="NOV_L">Noviembre</phrase>
   <phrase section="Localization" data="OCT">Oct</phrase>
-  <phrase section="Localization" data="OCT_L">October</phrase>
-  <phrase section="Localization" data="SAT">Sa</phrase>
-  <phrase section="Localization" data="SAT_L">Saturday</phrase>
-  <phrase section="Localization" data="SAT_M">Sat</phrase>
-  <phrase section="Localization" data="SEP">Sep</phrase>
-  <phrase section="Localization" data="SEP_L">September</phrase>
-  <phrase section="Localization" data="SUN">Su</phrase>
-  <phrase section="Localization" data="SUN_L">Sunday</phrase>
-  <phrase section="Localization" data="SUN_M">Sun</phrase>
-  <phrase section="Localization" data="THIS_MONTH">This Month</phrase>
-  <phrase section="Localization" data="THIS_WEEK">This Week</phrase>
-  <phrase section="Localization" data="THIS_YEAR">This Year</phrase>
-  <phrase section="Localization" data="THU">Th</phrase>
-  <phrase section="Localization" data="THU_L">Thursday</phrase>
-  <phrase section="Localization" data="THU_M">Thu</phrase>
-  <phrase section="Localization" data="TNEX_YEAR">Next Year</phrase>
-  <phrase section="Localization" data="TODAY">Today</phrase>
-  <phrase section="Localization" data="TOMORROW">Tomorrow</phrase>
-  <phrase section="Localization" data="TUE">Tu</phrase>
-  <phrase section="Localization" data="TUE_L">Tuesday</phrase>
-  <phrase section="Localization" data="TUE_M">Tue</phrase>
-  <phrase section="Localization" data="WED">We</phrase>
-  <phrase section="Localization" data="WED_L">Wednesday</phrase>
-  <phrase section="Localization" data="WED_M">Wed</phrase>
-  <phrase section="Localization" data="YESTERDAY">Yesterday</phrase>
+  <phrase section="Localization" data="OCT_L">Octubre</phrase>
+  <phrase section="Localization" data="SAT">Sab</phrase>
+  <phrase section="Localization" data="SAT_L">Sabado</phrase>
+  <phrase section="Localization" data="SAT_M">Sab</phrase>
+  <phrase section="Localization" data="SEP">Sept</phrase>
+  <phrase section="Localization" data="SEP_L">Septiembre</phrase>
+  <phrase section="Localization" data="SUN">Dom</phrase>
+  <phrase section="Localization" data="SUN_L">Domingo</phrase>
+  <phrase section="Localization" data="SUN_M">Dom</phrase>
+  <phrase section="Localization" data="THIS_MONTH">Este mes</phrase>
+  <phrase section="Localization" data="THIS_WEEK">Esta semana</phrase>
+  <phrase section="Localization" data="THIS_YEAR">Este año</phrase>
+  <phrase section="Localization" data="THU">Jue</phrase>
+  <phrase section="Localization" data="THU_L">Jueves</phrase>
+  <phrase section="Localization" data="THU_M">Jue</phrase>
+  <phrase section="Localization" data="TNEX_YEAR">Siguiente año</phrase>
+  <phrase section="Localization" data="TODAY">Hoy</phrase>
+  <phrase section="Localization" data="TOMORROW">Maána</phrase>
+  <phrase section="Localization" data="TUE">Mar</phrase>
+  <phrase section="Localization" data="TUE_L">Martes</phrase>
+  <phrase section="Localization" data="TUE_M">Mar</phrase>
+  <phrase section="Localization" data="WED">Mie</phrase>
+  <phrase section="Localization" data="WED_L">Miércoles</phrase>
+  <phrase section="Localization" data="WED_M">Mie</phrase>
+  <phrase section="Localization" data="YESTERDAY">Ayer</phrase>
   
-  <!-- Admin Menus -->
-  <phrase section="Admin Menus" data="ADM_BACKUP">Backup</phrase>
-  <phrase section="Admin Menus" data="ADM_CATS">Categories</phrase>
-  <phrase section="Admin Menus" data="ADM_CFIELDS">Custom Fields</phrase>
-  <phrase section="Admin Menus" data="ADM_CHPASS">Change Password</phrase>
-  <phrase section="Admin Menus" data="ADM_CMNTS">Comments</phrase>
-  <phrase section="Admin Menus" data="ADM_CNTR">Countries</phrase>
-  <phrase section="Admin Menus" data="ADM_CONFIG">Configuration</phrase>
-  <phrase section="Admin Menus" data="ADM_CONTENT">Content</phrase>
-  <phrase section="Admin Menus" data="ADM_COUPONS">Coupons</phrase>
-  <phrase section="Admin Menus" data="ADM_DASH">Dashboard</phrase>
-  <phrase section="Admin Menus" data="ADM_EMTPL">Email Templates</phrase>
+  <!-- Menus Administrativos -->
+  <phrase section="Admin Menus" data="ADM_BACKUP">Respaldo</phrase>
+  <phrase section="Admin Menus" data="ADM_CATS">Categorías</phrase>
+  <phrase section="Admin Menus" data="ADM_CFIELDS">Campos personalizados</phrase>
+  <phrase section="Admin Menus" data="ADM_CHPASS">Cambiar contraseña</phrase>
+  <phrase section="Admin Menus" data="ADM_CMNTS">Commentarios</phrase>
+  <phrase section="Admin Menus" data="ADM_CNTR">Paises</phrase>
+  <phrase section="Admin Menus" data="ADM_CONFIG">Configuración</phrase>
+  <phrase section="Admin Menus" data="ADM_CONTENT">Contenido</phrase>
+  <phrase section="Admin Menus" data="ADM_COUPONS">Cupones</phrase>
+  <phrase section="Admin Menus" data="ADM_DASH">Escritorio</phrase>
+  <phrase section="Admin Menus" data="ADM_EMTPL">Plantilla de correo electrónico</phrase>
   <phrase section="Admin Menus" data="ADM_FAQ">F.A.Q.</phrase>
-  <phrase section="Admin Menus" data="ADM_FILES">Files</phrase>
-  <phrase section="Admin Menus" data="ADM_GATE">Payment Options</phrase>
-  <phrase section="Admin Menus" data="ADM_LNGMNG">Language</phrase>
-  <phrase section="Admin Menus" data="ADM_MEMS">Memberships</phrase>
-  <phrase section="Admin Menus" data="ADM_MENUS">Menus</phrase>
-  <phrase section="Admin Menus" data="ADM_MTNC">Maintenance</phrase>
-  <phrase section="Admin Menus" data="ADM_MYACC">My Account</phrase>
-  <phrase section="Admin Menus" data="ADM_NEWS">News</phrase>
-  <phrase section="Admin Menus" data="ADM_NEWSL">Newsletter</phrase>
-  <phrase section="Admin Menus" data="ADM_PAGES">Pages</phrase>
-  <phrase section="Admin Menus" data="ADM_PERM">User Permissions</phrase>
-  <phrase section="Admin Menus" data="ADM_PERMS">Permissions</phrase>
-  <phrase section="Admin Menus" data="ADM_PROD">Products</phrase>
-  <phrase section="Admin Menus" data="ADM_STNG">Settings</phrase>
-  <phrase section="Admin Menus" data="ADM_SYSINFO">System Info</phrase>
-  <phrase section="Admin Menus" data="ADM_SYSTEM">System</phrase>
-  <phrase section="Admin Menus" data="ADM_TRANS">Transactions</phrase>
-  <phrase section="Admin Menus" data="ADM_TRASH">Trash</phrase>
-  <phrase section="Admin Menus" data="ADM_USERS">Users</phrase>
+  <phrase section="Admin Menus" data="ADM_FILES">Archivos</phrase>
+  <phrase section="Admin Menus" data="ADM_GATE">Opciones de pago</phrase>
+  <phrase section="Admin Menus" data="ADM_LNGMNG">Lenguaje</phrase>
+  <phrase section="Admin Menus" data="ADM_MEMS">Membresías</phrase>
+  <phrase section="Admin Menus" data="ADM_MENUS">Menús</phrase>
+  <phrase section="Admin Menus" data="ADM_MTNC">Mantenimiento</phrase>
+  <phrase section="Admin Menus" data="ADM_MYACC">Mi cuenta</phrase>
+  <phrase section="Admin Menus" data="ADM_NEWS">Noticias</phrase>
+  <phrase section="Admin Menus" data="ADM_NEWSL">Boletín</phrase>
+  <phrase section="Admin Menus" data="ADM_PAGES">Páginas</phrase>
+  <phrase section="Admin Menus" data="ADM_PERM">Permisos de Usuario</phrase>
+  <phrase section="Admin Menus" data="ADM_PERMS">Permisos</phrase>
+  <phrase section="Admin Menus" data="ADM_PROD">Productos</phrase>
+  <phrase section="Admin Menus" data="ADM_STNG">Configuraciones</phrase>
+  <phrase section="Admin Menus" data="ADM_SYSINFO">Información del sistema</phrase>
+  <phrase section="Admin Menus" data="ADM_SYSTEM">Sistema</phrase>
+  <phrase section="Admin Menus" data="ADM_TRANS">Transacciónes</phrase>
+  <phrase section="Admin Menus" data="ADM_TRASH">Papelera</phrase>
+  <phrase section="Admin Menus" data="ADM_USERS">Usuarios</phrase>
   
-  <!-- File Upload -->
-  <phrase section="File Upload" data="FU_ERROR7">Invalid image detected.</phrase>
-  <phrase section="File Upload" data="FU_ERROR8">Invalid file extension. Allowed extensions are:</phrase>
-  <phrase section="File Upload" data="FU_ERROR9">Sorry but there is an error on our server. Please try again later.</phrase>
-  <phrase section="File Upload" data="FU_ERROR10">File is too big. Maximum allowed size is</phrase>
-  <phrase section="File Upload" data="FU_ERROR11">An unexpected error occurred, please try again later</phrase>
-  <phrase section="File Upload" data="FU_ERROR12">Sorry but there is an error on our server. Please try again later.</phrase>
-  <phrase section="File Upload" data="FU_ERROR13">The file could not be uploaded</phrase>
-  <phrase section="File Upload" data="FU_ERROR14">You need to select at least one file.</phrase>
-  <phrase section="File Upload" data="FU_ERROR15">Invalid file detected.</phrase>
+  <!-- Subir archivos -->
+  <phrase section="File Upload" data="FU_ERROR7">Imagen inválida detectada.</phrase>
+  <phrase section="File Upload" data="FU_ERROR8">Extensión de archivo inválido. Las extensiones permitidas son:</phrase>
+  <phrase section="File Upload" data="FU_ERROR9">Error interno de servidor. Intente de nuevo más tarde.</phrase>
+  <phrase section="File Upload" data="FU_ERROR10">El archivo es demasiado grande. el tamaño máximo permitido es</phrase>
+  <phrase section="File Upload" data="FU_ERROR11">Ocurrió un error inesperado. Intente de nuevo más tarde</phrase>
+  <phrase section="File Upload" data="FU_ERROR12">Error interno de servidor. Intente de nuevo más tarde.</phrase>
+  <phrase section="File Upload" data="FU_ERROR13">Error. El archivo no se pudo subir</phrase>
+  <phrase section="File Upload" data="FU_ERROR14">Seleccione al menos un archivo.</phrase>
+  <phrase section="File Upload" data="FU_ERROR15">Error. Archivo inválido detectado.</phrase>
   
-  <!-- Admin Pages -->
-  <phrase section="Pages" data="PAG_ADDED_OK">Page [NAME] added successfully.</phrase>
-  <phrase section="Pages" data="PAG_CONTACT">Contact Page</phrase>
-  <phrase section="Pages" data="PAG_CREATE">Create Page</phrase>
-  <phrase section="Pages" data="PAG_EDIT">Edit Page</phrase>
-  <phrase section="Pages" data="PAG_EMPTY">You don't have any content pages yet...</phrase>
-  <phrase section="Pages" data="PAG_FAQ">F.A.Q. Page</phrase>
-  <phrase section="Pages" data="PAG_HOME">Home Page</phrase>
-  <phrase section="Pages" data="PAG_INFO">Here you can manage your content pages.</phrase>
-  <phrase section="Pages" data="PAG_NEW">New Page</phrase>
-  <phrase section="Pages" data="PAG_NORMAL">Normal Page</phrase>
-  <phrase section="Pages" data="PAG_SLUG">Page Slug</phrase>
-  <phrase section="Pages" data="PAG_TRASH_OK">Page [NAME] trashed successfully.</phrase>
-  <phrase section="Pages" data="PAG_TYPE">Page Type</phrase>
-  <phrase section="Pages" data="PAG_UPDATE">Update Page</phrase>
-  <phrase section="Pages" data="PAG_UPDATE_OK">Page [NAME] updated successfully.</phrase>
+  <!-- Páginas Administrativas -->
+  <phrase section="Pages" data="PAG_ADDED_OK">Pagina [NAME] agregada con éxito.</phrase>
+  <phrase section="Pages" data="PAG_CONTACT">Pagina de Contacto</phrase>
+  <phrase section="Pages" data="PAG_CREATE">Crear Pagina</phrase>
+  <phrase section="Pages" data="PAG_EDIT">Editar Pagina</phrase>
+  <phrase section="Pages" data="PAG_EMPTY">Aun no tiene paginas de contenido...</phrase>
+  <phrase section="Pages" data="PAG_FAQ">Página F.A.Q.</phrase>
+  <phrase section="Pages" data="PAG_HOME">Inicio</phrase>
+  <phrase section="Pages" data="PAG_INFO">Aqui puede administrar el contenido de sus páginas.</phrase>
+  <phrase section="Pages" data="PAG_NEW">Nueva pagina</phrase>
+  <phrase section="Pages" data="PAG_NORMAL">Pagina Normal </phrase>
+  <phrase section="Pages" data="PAG_SLUG">URL amigable (slug)</phrase>
+  <phrase section="Pages" data="PAG_TRASH_OK">Pagina [NAME] enviada a la papelera.</phrase>
+  <phrase section="Pages" data="PAG_TYPE">Tipo de pagina</phrase>
+  <phrase section="Pages" data="PAG_UPDATE">Actualziar pagina</phrase>
+  <phrase section="Pages" data="PAG_UPDATE_OK">Pagina [NAME] actualizada con éxito.</phrase>
   
-  <!-- Countries -->
-  <phrase section="Countries" data="CNT_INFO">Here you can view and manage country list. Click on VAT/Tax values to edit in place.</phrase>
-  <phrase section="Countries" data="CNT_ABBR">Abbreviation</phrase>
-  <phrase section="Countries" data="CNT_SELECT">Select Country</phrase>
-  <phrase section="Countries" data="CNT_DEL_OK">Country [NAME] deleted successfully.</phrase>
-  <phrase section="Countries" data="CNT_EDIT">Edit Country</phrase>
-  <phrase section="Countries" data="PAG_EMPTY">You don't have any countries yet...</phrase>
-  <phrase section="Countries" data="CNT_UPDATE">Update Country</phrase>
-  <phrase section="Countries" data="CNT_UPDATE_OK">Country [NAME] updated successfully.</phrase>
+  <!-- Países  -->
+  <phrase section="Countries" data="CNT_INFO">Aqui puede ver y administras el listado de países. Clic en valores IVA/Impuesto para editarlos en las páginas.</phrase>
+  <phrase section="Countries" data="CNT_ABBR">Abreviación</phrase>
+  <phrase section="Countries" data="CNT_SELECT">Seleccione País</phrase>
+  <phrase section="Countries" data="CNT_DEL_OK">País [NAME] eliminado con éxito.</phrase>
+  <phrase section="Countries" data="CNT_EDIT">Editar País</phrase>
+  <phrase section="Countries" data="PAG_EMPTY">No tiene ningún país aún...</phrase>
+  <phrase section="Countries" data="CNT_UPDATE">Actualizar País</phrase>
+  <phrase section="Countries" data="CNT_UPDATE_OK">País [NAME] Actualizado con éxito.</phrase>
   
   <!-- Admin Discounts -->
   <phrase section="Discounts" data="DC_ADDED_OK">Coupon [NAME] added successfully.</phrase>
